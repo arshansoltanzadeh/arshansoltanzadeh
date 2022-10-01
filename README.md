@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BleezDEV
+- 👀 I’m interested in software development and web development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything, really
+- 📫 How to reach me: email / discord (my tag is #9873)
