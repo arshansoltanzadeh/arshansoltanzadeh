@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BleezDEV
 - 👀 I’m interested in software development and web development
-- 🌱 I’m currently learning Full Stack Web Development
-- 📝 I already know python
+- 🌱 I’m currently learning Full Stack Web Development and Data Science and Machine Learning with Python
+- 📝 I already know python fundamentals
 - 💞️ I’m looking to collaborate on anything, really
 - 📫 How to reach me: email / discord (my tag is #9873)
