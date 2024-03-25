@@ -3,7 +3,7 @@
 - Interested in Pursuing Applied Physics, Applied Math, or Electrical Engineering/Computer Science
 
 - Skills:
-  - Python
+  - Python Programming
   - Good Written Communication Skills
   - Leadership
   - Fast Learner
