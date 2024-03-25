@@ -3,10 +3,10 @@
 - Interested in Pursuing Applied Physics, Applied Math, or Electrical Engineering/Computer Science
 
 - Skills:
-  Python
-  Good Written Communication Skills
-  Leadership
-  Fast Learner
+  - Python
+  - Good Written Communication Skills
+  - Leadership
+  - Fast Learner
 
 - FRC Team 2429
 - Athlete - Rose Bowl Water Polo Club
