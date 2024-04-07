@@ -1,6 +1,6 @@
 - Student at La Cañada High School (Class of '27)
 
-- Interested in Pursuing Applied Physics, Applied Math, or Electrical Engineering/Computer Science
+- Interested in Pursuing Applied Physics + Electrical Engineering/Computer Science
 
 - Skills:
   - Python Programming
