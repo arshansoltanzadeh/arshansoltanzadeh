@@ -1,6 +1,6 @@
 - Student at La Cañada High School (Class of '27)
 
-- Interested in Pursuing Electrical / Computer Engineering Major, (possibly Applied Physics or Physics minor)
+- Interested in Pursuing Electrical / Computer Engineering, Applied Physics
 
 - Skills:
   - Python Programming
