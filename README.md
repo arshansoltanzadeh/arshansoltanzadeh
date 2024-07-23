@@ -5,11 +5,9 @@
 - Skills:
   - Python Programming
   - Basic HTML/CSS
+  - Basic C++
+  - Basic NVIDIA CUDA C++
   - Basic CAD
-  - Basic Git
-  - Good Written Communication Skills
-  - Leadership
-  - Fast Learner
  
   - currently learning C++ and Java
 
