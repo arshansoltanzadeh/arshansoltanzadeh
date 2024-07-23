@@ -15,6 +15,3 @@
 
 - FIRST Robotics Competition Team 2429
 - Captain - FIRST Tech Challenge Team 23838
-- Athlete - Rose Bowl Water Polo Club
-- Boy Scout Troop 395 (Life Scout; 30+ Merit Badges; Working on Eagle Project)
-- Pianist - Cerificate of Merit Level 8
