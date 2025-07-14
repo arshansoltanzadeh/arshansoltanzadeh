@@ -1,15 +1,7 @@
-- Student at La Cañada High School (Class of '27)
+-Interested in EECS + Physics
 
-- Interested in EECS + Ph
+-Extensive experience with Python and Java; experience in C++, NVIDIA CUDA C++, HTML/CSS.
 
-- Skills:
-  - Python
-  - Java
-  - Basic HTML/CSS
-  - Basic C++
-  - Basic NVIDIA CUDA C++
-
-- FIRST Robotics Competition Team 2429
-- Previous Captain - FIRST Tech Challenge Team 23838
+-Currently learning advanced full stack web development
 
 - Open to collaboration
